@@ -1,0 +1,73 @@
+{
+  "random_seed": 42,
+  "prediction_target": "Total.Cup.Points",
+  "model_features": [
+    "Number.of.Bags",
+    "Moisture",
+    "Category.One.Defects",
+    "Quakers",
+    "Category.Two.Defects",
+    "altitude_mean_meters",
+    "Harvest.Year.Numeric",
+    "Species",
+    "Country.of.Origin",
+    "Variety",
+    "Processing.Method",
+    "Color",
+    "unit_of_measurement"
+  ],
+  "processed_feature_count": 61,
+  "split_rows": {
+    "train": 802,
+    "validation": 268,
+    "test": 268
+  },
+  "candidate_hidden_layers": [
+    [
+      32
+    ],
+    [
+      64,
+      32
+    ],
+    [
+      128,
+      64,
+      32
+    ]
+  ],
+  "selected_hidden_layers": [
+    128,
+    64,
+    32
+  ],
+  "selected_validation_RMSE": 2.271131561271455,
+  "final_model_iterations": 35,
+  "test_metrics": {
+    "MAE": 1.7369674770261696,
+    "RMSE": 2.6620292172839815,
+    "R2": 0.18649022914320013,
+    "within_1_point_accuracy": 0.44029850746268656,
+    "within_2_points_accuracy": 0.6828358208955224
+  },
+  "derived_high_quality_screening_metrics": {
+    "threshold": 82.5,
+    "accuracy": 0.6268656716417911,
+    "precision": 0.6851851851851852,
+    "recall": 0.5285714285714286,
+    "F1": 0.5967741935483871,
+    "confusion_matrix_TN_FP_FN_TP": [
+      94,
+      34,
+      66,
+      74
+    ]
+  },
+  "mean_baseline_test_metrics": {
+    "MAE": 1.9135957595201558,
+    "RMSE": 2.95312442079328,
+    "R2": -0.001153403080049964,
+    "within_1_point_accuracy": 0.3917910447761194,
+    "within_2_points_accuracy": 0.6865671641791045
+  }
+}

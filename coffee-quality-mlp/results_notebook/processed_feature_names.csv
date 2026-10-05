@@ -1,0 +1,62 @@
+processed_feature
+numeric__Number.of.Bags
+numeric__Moisture
+numeric__Category.One.Defects
+numeric__Quakers
+numeric__Category.Two.Defects
+numeric__altitude_mean_meters
+numeric__Harvest.Year.Numeric
+categorical__Species_Arabica
+categorical__Species_Robusta
+categorical__Country.of.Origin_Brazil
+categorical__Country.of.Origin_China
+categorical__Country.of.Origin_Colombia
+categorical__Country.of.Origin_Costa Rica
+categorical__Country.of.Origin_El Salvador
+categorical__Country.of.Origin_Ethiopia
+categorical__Country.of.Origin_Guatemala
+categorical__Country.of.Origin_Haiti
+categorical__Country.of.Origin_Honduras
+categorical__Country.of.Origin_India
+categorical__Country.of.Origin_Indonesia
+categorical__Country.of.Origin_Kenya
+categorical__Country.of.Origin_Malawi
+categorical__Country.of.Origin_Mexico
+categorical__Country.of.Origin_Nicaragua
+categorical__Country.of.Origin_Peru
+categorical__Country.of.Origin_Philippines
+categorical__Country.of.Origin_Taiwan
+"categorical__Country.of.Origin_Tanzania, United Republic Of"
+categorical__Country.of.Origin_Thailand
+categorical__Country.of.Origin_Uganda
+categorical__Country.of.Origin_United States
+categorical__Country.of.Origin_United States (Hawaii)
+categorical__Country.of.Origin_Vietnam
+categorical__Country.of.Origin_infrequent_sklearn
+categorical__Variety_Arusha
+categorical__Variety_Bourbon
+categorical__Variety_Catimor
+categorical__Variety_Catuai
+categorical__Variety_Caturra
+categorical__Variety_Gesha
+categorical__Variety_Hawaiian Kona
+categorical__Variety_Mundo Novo
+categorical__Variety_Other
+categorical__Variety_Pacamara
+categorical__Variety_Pacas
+categorical__Variety_SL14
+categorical__Variety_SL28
+categorical__Variety_SL34
+categorical__Variety_Typica
+categorical__Variety_Yellow Bourbon
+categorical__Variety_infrequent_sklearn
+categorical__Processing.Method_Natural / Dry
+categorical__Processing.Method_Other
+categorical__Processing.Method_Pulped natural / honey
+categorical__Processing.Method_Semi-washed / Semi-pulped
+categorical__Processing.Method_Washed / Wet
+categorical__Color_Blue-Green
+categorical__Color_Bluish-Green
+categorical__Color_Green
+categorical__unit_of_measurement_ft
+categorical__unit_of_measurement_m
